@@ -1,0 +1,12 @@
+li{
+    text-decoration: none;
+    padding: 15px;
+    border-bottom: 1px solid #d7d7d7;
+    font-size: 1.2em;
+    background-color: #efefef;
+    list-style: none;
+}
+ol{
+    text-decoration: none;
+    list-style: none;
+}
